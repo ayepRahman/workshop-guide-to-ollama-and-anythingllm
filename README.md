@@ -1,4 +1,5 @@
-[img](./bg.png)
+![Image Alt Text](./bg.png)
+
 
 **Workshop Title:** "Hands-on AI Model Installation and Integration: A Guide to OLLAMA and AnythingLLM"
 
