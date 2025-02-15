@@ -2,6 +2,14 @@
 
 **Workshop Outline:**
 
+###Analogy on how LLM model work###
+
+Imagine a super smart librarian who knows everything about books (like words and phrases). When you ask it a question or give it a task, it searches through its library to find the most relevant answers.
+
+Think of it like having a personal bookshelf assistant! The librarian uses what it’s learned from reading millions of texts to generate answers that are similar in style and tone to human-written content.
+
+Just like how the real librarian might not always have an answer to every question, the AI LLM has its limitations too. But for most questions, it can be a super helpful tool!
+
 1. **Introduction to AI Models**
 	* Overview of different types of AI models (e.g., language models, transformer models)
 	* **Key Concepts:**
