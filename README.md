@@ -2,7 +2,7 @@
 
 **Workshop Outline:**
 
-###Analogy on how LLM model work###
+***Analogy on how LLM model work***
 
 Imagine a super smart librarian who knows everything about books (like words and phrases). When you ask it a question or give it a task, it searches through its library to find the most relevant answers.
 
